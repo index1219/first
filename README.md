@@ -6,7 +6,7 @@
 
 跳转指令 [tiaozhuan](./second.md)
 
-![mofa_jinshu_mulu-029](D:\Typora\mofa_jinshu_mulu-029.jpg)
+![mofa_jinshu_mulu-029](./mofa_jinshu_mulu-029.jpg)
 
 ![picture](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2496571732,442429806&fm=26&gp=0.jpg)
 
